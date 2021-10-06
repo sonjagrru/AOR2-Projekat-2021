@@ -1,0 +1,3 @@
+Program koji sam odabrala za zadatak 2 u projektu je matematicki problem 
+koji trazi u zadatoj matrici pravougaonik sa najvecim mogucim zbirom i nalazi zbir
+i njegove koordinate. Program ima oko 101000 skokova.
